@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace BlazorMVVM.Models
+namespace BlazorMVVM.App.Models
 {
     public class ToggleViewModel : INotifyPropertyChanged
     {
